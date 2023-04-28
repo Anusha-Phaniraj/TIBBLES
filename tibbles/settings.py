@@ -78,8 +78,8 @@ WSGI_APPLICATION = 'tibbles.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'tt',
-        'PASSWORD': "o!rul8,2?",
+        'NAME': '',
+        'PASSWORD': '',
         'USER': 'root',
         'HOST': 'localhost',
         'PORT': '3306',
