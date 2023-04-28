@@ -6,8 +6,8 @@ TIBBLES is an efficient and user-friendly Timetable Generator DBMS, specially cr
 
 TIBBLES provides the following features:
 
-- User authentication: TIBBLES allows users to register and login to the application.
-- Dashboard: Upon successful login, users are redirected to a dashboard where they can view their timetable and make changes to it.
-- Timetable creation: Users can create timetables for various departments, faculties, and courses by adding subjects, teachers and time slots.
-- Timetable management: Users can edit, delete, and view timetables for various departments, faculties, and courses.
-- Export timetables: Users can export timetables in PDF and CSV formats.
+- **User authentication**: TIBBLES allows users to register and login to the application.
+- **Dashboard**: Upon successful login, users are redirected to a dashboard where they can view their timetable and make changes to it.
+- **Timetable creation**: Users can create timetables for various departments, faculties, and courses by adding subjects, teachers and time slots.
+- **Timetable management**: Users can edit, delete, and view timetables for various departments, faculties, and courses.
+- **Export timetables**: Users can export timetables in PDF and CSV formats.
